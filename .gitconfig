@@ -1,0 +1,14 @@
+[user]
+	name = Jaryn Colbert
+	email = jaryn.colbert@gmail.com
+[alias]
+	co = checkout
+	b = branch
+	br = branch
+	cl = clone
+	cm = commit -m
+	stat = status
+	st = status
+	last = log -l HEAD
+	df = diff
+  	plog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
